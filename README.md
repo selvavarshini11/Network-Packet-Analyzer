@@ -1,0 +1,1 @@
+A real-time Network Packet Analyzer built using Python and Scapy that captures, monitors, and analyzes network traffic. The tool provides insights into packet flow by identifying protocols, source and destination IP addresses, and packet sizes.
